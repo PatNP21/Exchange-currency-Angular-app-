@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  margin: 0 !important;
+  font-family: 'Comfortaa', cursive;
+}
+
+a:-webkit-any-link {
+  cursor: pointer;
+  text-decoration: none;
+  color:#000080;
+}
